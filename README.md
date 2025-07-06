@@ -15,7 +15,7 @@ A local, lightweight, and privacy-friendly assistant that helps you interact wit
 ---
 
 ## 📁 Folder Structure
-
+```
 swagger-agent/
 ├── main.py # Entry point for the assistant
 ├── api_parser.py # Swagger file loading & parsing logic
@@ -25,6 +25,7 @@ swagger-agent/
 ├── openapi.json # Default spec loaded on startup
 ├── .gitignore
 ├── README.md
+```
 
 ---
 
